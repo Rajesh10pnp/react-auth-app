@@ -1,0 +1,4 @@
+.admin-card{padding:20px}
+.admin-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:14px}
+.card.small{padding:14px;text-align:center}
+@media (max-width:800px){.admin-grid{grid-template-columns:repeat(1,1fr)}}

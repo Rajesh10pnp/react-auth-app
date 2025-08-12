@@ -1,0 +1,3 @@
+.emp-card{padding:20px}
+.tasks{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:14px}
+@media (max-width:800px){.tasks{grid-template-columns:1fr}}

@@ -1,0 +1,5 @@
+.signup-card{width:360px;padding:20px}
+.signup-form{display:flex;flex-direction:column;gap:10px}
+.signup-form input, .signup-form select{padding:10px;border:1px solid #e5e7eb;border-radius:8px}
+.signup-form button{padding:10px;border-radius:8px;background:var(--accent);color:rgb(7, 7, 7);border:none}
+@media (max-width:480px){.signup-card{width:92%;padding:16px}}
